@@ -1,4 +1,4 @@
-# Welcome to ZZSC9020 GitHub repository for group GROUP-F
+# Welcome to ZZSC9020 GitHub repository for group TeamF-EnergyForecasting
 
 This GitHub repository is the main point of access for students and lecturers of the ZZSC9020 capstone course. 
 
@@ -16,7 +16,7 @@ Complete the information below regarding your group.
 
 ### Brief project description
 
-Describe your project in one paragraph.
+This project aims to develop short term and mid term models that predict the amount of energy consumed within the next 3 days or month. 
 
 ## Repository structure
 
@@ -28,4 +28,4 @@ The repository has the following folder structure:
 - gantt_chart: Gantt chart or a link to an account in a project task management tool
 - minutes: minutes for each meeting (left not more than 24h after the corresponding meeting)
 - report: RMarkdown or Jupyter notebook report in progress
-- src: source code
+- src: source code, visit the final_code folder to see all the models and assets made for this couse
